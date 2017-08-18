@@ -1,0 +1,1 @@
+git remote add original https://github.com/cloudfoundry/uaa.git
